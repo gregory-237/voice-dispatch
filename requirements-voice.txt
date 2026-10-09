@@ -1,0 +1,6 @@
+-r requirements.txt
+torch>=2.4,<2.9
+onnxruntime>=1.18,<2
+silero-vad==6.2.0
+faster-whisper>=1.1,<2
+omegaconf>=2.3,<3
